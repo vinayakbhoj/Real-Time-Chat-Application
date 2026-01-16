@@ -1,7 +1,7 @@
 
 ---
 
-# 2️⃣ Main Folder README (`README.md` in `Real-Time-Chat-App/`)
+# Main Folder README (`README.md` in `Real-Time-Chat-App/`)
 
 ```markdown
 # Real-Time Chat Application
